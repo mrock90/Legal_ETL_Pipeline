@@ -1,0 +1,6 @@
+invoice_number,client_name,amount_of_invoice_outstanding,days_outstanding,aged_bucket,status_update,apr_notes
+INV-1011,Blue Horizon LLC,14708,125,91+,Email Sent,Client requested credit
+INV-1012,Global Tech Corp,27338,130,91+,Follow-up Scheduled,Waiting on check
+INV-1013,Wayne Ent,17309,145,91+,Promise to Pay,Address change
+INV-1014,Blue Horizon LLC,27759,160,91+,Disputed,Contacted AP
+INV-1015,Global Tech Corp,26083,180,91+,Legal Review,Standard delay
